@@ -57,7 +57,7 @@ You can open in **'/admin'** path
 
 ## Library
 
-| Library                                                 | Description |
-| ------------------------------------------------------- | --------- |
-| [rufus-scheduler](github.com/jmettraux/rufus-scheduler) | Scheduler |
-| [Trestle](https://github.com/TrestleAdmin/trestle)      | Web Admin |
+| Library                                                         | Description |
+| --------------------------------------------------------------- | --------- |
+| [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) | Scheduler |
+| [Trestle](https://github.com/TrestleAdmin/trestle)              | Web Admin |
